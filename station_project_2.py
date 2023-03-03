@@ -24,3 +24,4 @@ else:
             break
     else:
         print("You lose")
+

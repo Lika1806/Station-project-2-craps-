@@ -12,7 +12,7 @@ input("Press enter to start")
 result = dice_sum()
 if result == 7 or result == 11:
     print("You won")
-elif result == 1 or result == 3 or result == 12:
+elif result == 2 or result == 3 or result == 12:
     print("You lose")
 else:
     print(f"Now your goal number is {result}")
